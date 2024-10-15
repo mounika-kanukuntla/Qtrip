@@ -1,0 +1,50 @@
+[
+    {"img":"/assets/mainimages/pic1.jpg",
+    "alt":"pic",
+     "head":"BENGALURU",
+      "para":"100+PLACES",
+      "path":"/bengaluru"
+    },
+    {"img":"/assets/mainimages/pic2.jpg",
+    "alt":"pic",
+     "head":"GOA",
+      "para":"250+PLACES",
+      "path":"/bengaluru"
+    },
+    {"img":"/assets/mainimages/pic3.jpg",
+    "alt":"pic",
+    "head":"KOLKATA",
+      "para":"150+PLACES",
+      "path":"/bengaluru"
+     },
+    {"img":"/assets/mainimages/pic4.jpg",
+    "alt":"pic",
+    "head":"SINGAPORE",
+    "para":"100+PLACES",
+    "path":"/bengaluru"
+ },
+    {"img":"/assets/mainimages/pic5.jpg",
+    "alt":"pic",
+    "head":"MALAYSIA",
+      "para":"100+PLACES",
+      "path":"/bengaluru"
+},
+    {"img":"/assets/mainimages/pic6.jpg",
+    "alt":"pic",
+    "head":"BANGKOK",
+      "para":"150+PLACES",
+      "path":"/bengaluru"
+},
+    {"img":"/assets/mainimages/pic7.jpg",
+    "alt":"pic",
+    "head":"NEW YORK",
+      "para":"300+PLACES",
+      "path":"/bengaluru"
+},
+    {"img":"/assets/mainimages/pic8.jpg",
+    "alt":"pic",
+    "head":"PARIS",
+      "para":"150+PLACES",
+      "path":"/bengaluru"
+}
+]

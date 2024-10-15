@@ -1,0 +1,129 @@
+ /* h1{
+    color: teal;
+}
+div{
+    background-color: white;
+}  */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+nav{
+    font-size: 18px;
+    background-color: #f8f9fa;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content:space-between;
+}
+#ul1{
+    justify-content: space-around;
+}
+li{
+    padding: 4px;
+    margin-top: 8px;
+}
+#bb1,#bb2{
+    border: none;
+    background-color: transparent;
+}
+button{
+    border: none;
+    font-size: 18px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px 25px;
+}
+#b1{
+    color: #F19537;
+    background-color: transparent;
+}
+#b2{
+    color: white;
+    background-color:#F19537 ;
+}
+#d1{
+    background:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://images.pexels.com/photos/2422461/pexels-photo-2422461.jpeg?cs=srgb) no-repeat center/cover ;
+    text-align: center;
+    width: 83.7rem;
+    height: 20rem;
+    color: white;
+}
+#ip1{
+    margin-top: 30px;
+}
+input{
+    font-size: medium;
+    padding: 25px;
+    width: 35rem;
+    height: 16px;
+    border: none;
+    border-radius: 8px;
+}
+h1{
+    font-size: 2.5rem;
+    color: #FFFFFF;
+    padding-top: 40px;
+}
+p{
+    font-size: 24px;
+    font-weight: 10px;
+    padding-top: 30px;
+}
+.d2c{
+    font-size: 16px;
+    padding: 0px 12px;
+    margin: 0px 0px 24px;
+}
+#d2{
+    width: 68rem;
+    height: 64rem;
+    margin-left: 8rem;
+    padding: 100px 0px;
+}
+#d21{
+    display: flex;
+}
+#d22{
+    display: flex;
+}
+img[alt="pic"]{
+    width: 300px;
+    height: 390px;
+    border-radius: 8px;
+    transition-duration: 0.2s;
+}
+footer{
+    padding: 16px;
+    color: #999;
+    background-color: #f1f1f1;
+}
+#d3{
+    margin-left: 6rem;
+}
+.tex{
+    text-align: center;
+}
+img:hover{
+    filter:brightness(50%)
+}
+.name{
+    color: #fff;
+    position: absolute;
+    bottom: 40px;
+    right: 75px;
+    text-align: center;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.namef{
+    position: relative;
+}
